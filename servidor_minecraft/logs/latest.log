@@ -3710,3 +3710,60 @@
 [18Dec2024 02:17:25.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rocio528: Teleported Rocio528 to MarioCuevas316]
 [18Dec2024 02:17:38.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rocio528 has reached the goal [Half a flight]
 [18Dec2024 02:18:06.033] [pool-4-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=661, y=89, z=981}
+[18Dec2024 02:18:54.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarioCuevas316: Teleported MarioCuevas316 to Rocio528]
+[18Dec2024 02:20:01.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rocio528: Teleported Rocio528 to MarioCuevas316]
+[18Dec2024 02:20:10.420] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-545}
+[18Dec2024 02:20:10.421] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-541}
+[18Dec2024 02:20:23.778] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-612}
+[18Dec2024 02:20:23.778] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-607}
+[18Dec2024 02:20:23.778] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-612}
+[18Dec2024 02:20:23.778] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-607}
+[18Dec2024 02:21:59.469] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=339, y=-50, z=686}
+[18Dec2024 02:22:38.924] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[18Dec2024 02:22:38.925] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[18Dec2024 02:22:38.925] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[18Dec2024 02:22:38.926] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[18Dec2024 02:22:38.926] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[18Dec2024 02:22:38.928] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[18Dec2024 02:22:38.929] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[18Dec2024 02:22:38.929] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[18Dec2024 02:23:15.800] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[18Dec2024 02:23:15.801] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[18Dec2024 02:23:15.801] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[18Dec2024 02:23:15.801] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[18Dec2024 02:23:15.802] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[18Dec2024 02:26:46.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rocio528 has made the advancement [Sweet Dreams]
+[18Dec2024 02:27:56.644] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-259, y=32, z=-606}
+[18Dec2024 02:27:56.644] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-260, y=32, z=-606}
+[18Dec2024 02:27:56.645] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=31, z=-608}
+[18Dec2024 02:28:39.530] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-536}
+[18Dec2024 02:28:39.531] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=27, z=-536}
+[18Dec2024 02:28:39.531] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=27, z=-536}
+[18Dec2024 02:28:39.531] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=28, z=-536}
+[18Dec2024 02:28:39.531] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=28, z=-536}
+[18Dec2024 02:28:39.531] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=28, z=-536}
+[18Dec2024 02:28:49.605] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[18Dec2024 02:28:53.168] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[18Dec2024 02:28:53.169] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[18Dec2024 02:28:53.213] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[18Dec2024 02:28:53.214] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-132, y=116, z=93}
+[18Dec2024 02:28:53.216] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-130, y=116, z=92}
+[18Dec2024 02:28:53.216] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[18Dec2024 02:28:53.217] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-132, y=117, z=99}
+[18Dec2024 02:28:53.217] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-129, y=117, z=101}
+[18Dec2024 02:28:53.217] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[18Dec2024 02:28:53.218] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-128, y=116, z=99}
+[18Dec2024 02:28:53.420] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[18Dec2024 02:30:12.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rocio528 lost connection: Timed out
+[18Dec2024 02:30:12.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rocio528 left the game
+[18Dec2024 02:30:41.421] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@24eaf075[id=<null>,name=Rocio528,properties={},legacy=false] (/127.221.133.104:51917) lost connection: Disconnected
+[18Dec2024 02:31:03.283] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rocio528[/127.221.133.104:43603] logged in with entity id 42351 at (593.9138032031422, 65.16610926093821, 1421.3716699141821)
+[18Dec2024 02:31:03.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rocio528 joined the game
+[18Dec2024 02:31:03.346] [Server thread/INFO] [Jade/]: Syncing config to Rocio528 (0763d35d-a6e6-3acf-9dd1-5ad498dc19ac)
+[18Dec2024 02:31:33.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rocio528 lost connection: Timed out
+[18Dec2024 02:31:33.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rocio528 left the game
+[18Dec2024 02:31:37.367] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Erick'/72, l='ServerLevel[world]', x=32.16, y=70.00, z=77.61] died, message: 'Erick hit the ground too hard'
+[18Dec2024 02:31:37.367] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Erick'/72, l='ServerLevel[world]', x=32.16, y=70.00, z=77.61] died: Erick fell from a high place
+[18Dec2024 02:36:31.481] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rocio528[/127.221.133.104:34853] logged in with entity id 45649 at (591.2042437923773, 63.100000001490116, 1432.6710076299678)
+[18Dec2024 02:36:31.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rocio528 joined the game
+[18Dec2024 02:36:31.534] [Server thread/INFO] [Jade/]: Syncing config to Rocio528 (0763d35d-a6e6-3acf-9dd1-5ad498dc19ac)
