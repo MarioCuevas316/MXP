@@ -8613,3 +8613,72 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Dec2024 02:36:31.482] [Server thread/DEBUG] [Paraglider/]: Finished adding village structures
 [18Dec2024 02:36:31.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rocio528 joined the game
 [18Dec2024 02:36:31.534] [Server thread/INFO] [Jade/]: Syncing config to Rocio528 (0763d35d-a6e6-3acf-9dd1-5ad498dc19ac)
+[18Dec2024 02:39:09.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rocio528: Teleported Rocio528 to MarioCuevas316]
+[18Dec2024 02:40:19.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 02:40:19.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 02:41:01.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=629, y=69, z=1473} BlockPos{x=629, y=67, z=1475}
+[18Dec2024 02:41:01.523] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=629, y=69, z=1473} BlockPos{x=629, y=67, z=1475}
+[18Dec2024 02:41:01.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=630, y=69, z=1473} BlockPos{x=629, y=67, z=1475}
+[18Dec2024 02:41:01.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=630, y=69, z=1473} BlockPos{x=629, y=67, z=1475}
+[18Dec2024 02:44:05.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Dec2024 02:44:05.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
+[18Dec2024 02:45:19.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 02:45:19.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 02:46:32.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 has made the advancement [A Seedy Place]
+[18Dec2024 02:47:32.517] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rocio528 lost connection: Timed out
+[18Dec2024 02:47:32.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rocio528 left the game
+[18Dec2024 02:47:34.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarioCuevas316 lost connection: Disconnected
+[18Dec2024 02:47:34.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 left the game
+[18Dec2024 02:47:48.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Dec2024 02:47:48.958] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[18Dec2024 02:47:48.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Dec2024 02:47:48.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Dec2024 02:47:48.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Dec2024 02:47:49.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Dec2024 02:47:50.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[18Dec2024 02:47:50.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Dec2024 02:47:50.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Dec2024 02:47:50.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 02:47:50.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 02:47:50.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Dec2024 02:47:50.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[18Dec2024 02:47:50.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Dec2024 02:47:50.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Dec2024 02:47:50.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Dec2024 02:47:50.447] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[18Dec2024 02:47:50.447] [Server thread/INFO] [Framework/]: Unloading server configs...
+[18Dec2024 02:47:50.448] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/MXP/servidor_minecraft/config/goblintraders-entities.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23190!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23190!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23190!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23190!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23190!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1939) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23190!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23190!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23190!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23190!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23190!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.11-universal.jar%23238!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23233!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23233!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18Dec2024 02:47:50.449] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[18Dec2024 02:47:50.451] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[18Dec2024 02:47:50.451] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[18Dec2024 02:47:50.454] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
