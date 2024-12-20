@@ -5269,6 +5269,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-20 16:52:03 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_spruce_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2024-12-20 17:07:50 +0000"
@@ -5392,12 +5398,6 @@
   "pfm:recipes/furniture/stripped_spruce_simple_stool": {
     "criteria": {
       "has_planks": "2024-12-20 17:07:50 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/stuffed_potato": {
-    "criteria": {
-      "has_baked_potato": "2024-12-20 16:52:03 +0000"
     },
     "done": true
   },
