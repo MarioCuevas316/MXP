@@ -4644,3 +4644,14 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Dec2024 21:03:58.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [20Dec2024 21:03:58.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
 [20Dec2024 21:04:17.411] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[20Dec2024 21:06:39.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 21:06:39.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 21:08:27.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 has reached the goal [Flowers of the Savanna]
+[20Dec2024 21:09:27.323] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[20Dec2024 21:09:27.324] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[20Dec2024 21:09:37.676] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@5549c39a for service interface com.blamejared.clumps.platform.IEventHelper
+[20Dec2024 21:09:37.677] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@33f40a57 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[20Dec2024 21:11:39.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 21:11:39.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 21:14:49.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarioCuevas316: Set own game mode to Spectator Mode]
+[20Dec2024 21:15:45.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarioCuevas316: Set own game mode to Survival Mode]

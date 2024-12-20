@@ -5419,5 +5419,83 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_raw_table_log": {
+    "criteria": {
+      "has_log": "2024-12-20 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_log_stool": {
+    "criteria": {
+      "has_log": "2024-12-20 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2024-12-20 21:08:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-20 21:08:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
