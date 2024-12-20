@@ -395,3 +395,6 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Dec2024 16:47:56.901] [Server thread/INFO] [Jade/]: Syncing config to MarioCuevas316 (cfcc3f39-bd9c-31bf-a632-6b87431dc964)
 [20Dec2024 16:48:17.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [20Dec2024 16:48:17.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
+[20Dec2024 17:13:31.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[20Dec2024 17:13:31.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
+[20Dec2024 17:13:46.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarioCuevas316: Set own game mode to Spectator Mode]

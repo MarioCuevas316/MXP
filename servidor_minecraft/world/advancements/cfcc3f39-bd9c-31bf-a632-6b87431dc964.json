@@ -829,6 +829,7 @@
     "criteria": {
       "cooked_mutton": "2024-12-18 01:48:52 +0000",
       "cooked_beef": "2024-12-18 01:54:06 +0000",
+      "baked_potato": "2024-12-20 17:07:19 +0000",
       "apple": "2024-12-18 01:47:02 +0000",
       "cooked_cod": "2024-12-19 02:16:43 +0000",
       "bread": "2024-12-18 01:34:11 +0000",
@@ -5268,9 +5269,153 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-20 17:07:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2024-12-20 17:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-20 17:07:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_chair_classic": {
+    "criteria": {
+      "has_planks": "2024-12-20 17:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 17:07:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_table_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-20 17:07:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-20 17:07:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_table_log": {
+    "criteria": {
+      "has_log": "2024-12-20 17:07:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2024-12-20 17:07:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_table_basic": {
+    "criteria": {
+      "has_planks": "2024-12-20 17:07:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_chair_modern": {
+    "criteria": {
+      "has_planks": "2024-12-20 17:07:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2024-12-20 17:07:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-20 17:07:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-12-20 17:07:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_raw_table_log": {
+    "criteria": {
+      "has_log": "2024-12-20 17:07:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_modern_stool": {
+    "criteria": {
+      "has_planks": "2024-12-20 17:07:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-20 17:07:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-20 17:07:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2024-12-20 17:07:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_chair_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-20 17:07:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_simple_stool": {
+    "criteria": {
+      "has_planks": "2024-12-20 17:07:50 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2024-12-20 16:52:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_classic_stool": {
+    "criteria": {
+      "has_planks": "2024-12-20 17:07:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_chair": {
+    "criteria": {
+      "has_planks": "2024-12-20 17:07:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_table_classic": {
+    "criteria": {
+      "has_planks": "2024-12-20 17:07:50 +0000"
     },
     "done": true
   },
