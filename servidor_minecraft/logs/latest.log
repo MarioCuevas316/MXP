@@ -405,3 +405,9 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Dec2024 21:33:27.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
 [20Dec2024 21:39:32.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [20Dec2024 21:39:32.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
+[20Dec2024 21:50:48.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarioCuevas316: Set own game mode to Creative Mode]
+[20Dec2024 21:51:13.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarioCuevas316: Set own game mode to Survival Mode]
+[20Dec2024 21:53:30.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarioCuevas316: Set own game mode to Creative Mode]
+[20Dec2024 21:54:06.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarioCuevas316: Set own game mode to Survival Mode]
+[20Dec2024 21:55:55.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[20Dec2024 21:55:55.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]

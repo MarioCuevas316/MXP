@@ -2071,6 +2071,7 @@
     "criteria": {
       "sweet_berries": "2024-12-19 01:39:32 +0000",
       "kelp": "2024-12-19 02:58:15 +0000",
+      "brown_mushroom": "2024-12-20 21:47:59 +0000",
       "sugar_cane": "2024-12-18 02:35:01 +0000",
       "potato": "2024-12-19 00:30:51 +0000",
       "wheat": "2024-12-18 02:46:32 +0000",
@@ -5615,6 +5616,12 @@
   "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
       "acacia_blossom": "2024-12-20 21:08:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/acacia_cabinet": {
+    "criteria": {
+      "has_acacia_trapdoor": "2024-12-20 21:51:37 +0000"
     },
     "done": true
   },
