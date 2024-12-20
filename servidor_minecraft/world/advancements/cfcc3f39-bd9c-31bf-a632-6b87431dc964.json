@@ -5420,9 +5420,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:41:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_acacia": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:41:16 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2024-12-20 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_modern_stool": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:41:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_chair": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:41:16 +0000"
     },
     "done": true
   },
@@ -5432,9 +5456,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:41:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:41:16 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2024-12-20 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:41:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_table_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:41:16 +0000"
     },
     "done": true
   },
@@ -5444,9 +5498,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_table_log": {
+    "criteria": {
+      "has_log": "2024-12-20 21:41:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:41:16 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2024-12-20 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_classic_stool": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:41:16 +0000"
     },
     "done": true
   },
@@ -5462,9 +5534,69 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_chair_modern": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:41:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_table_classic": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:41:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_chair_classic": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:41:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_simple_stool": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:41:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_table_basic": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:41:16 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_log_stool": {
     "criteria": {
       "has_log": "2024-12-20 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_acacia": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 21:41:16 +0000"
     },
     "done": true
   },
@@ -5486,6 +5618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:41:16 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_kitchen_counter": {
     "criteria": {
       "has_planks": "2024-12-20 21:08:02 +0000"
@@ -5495,6 +5633,18 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2024-12-20 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_chair_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:41:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:41:16 +0000"
     },
     "done": true
   },

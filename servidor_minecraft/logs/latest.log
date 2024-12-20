@@ -401,3 +401,7 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Dec2024 21:15:45.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarioCuevas316: Set own game mode to Survival Mode]
 [20Dec2024 21:24:51.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [20Dec2024 21:24:51.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
+[20Dec2024 21:33:27.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[20Dec2024 21:33:27.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
+[20Dec2024 21:39:32.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[20Dec2024 21:39:32.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
