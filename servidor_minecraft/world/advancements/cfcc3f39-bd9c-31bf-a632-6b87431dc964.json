@@ -5463,6 +5463,12 @@
     },
     "done": true
   },
+  "pfm:recipes/building_blocks/acacia_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2024-12-20 21:53:24 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_classic_nightstand": {
     "criteria": {
       "has_planks": "2024-12-20 21:41:16 +0000"
