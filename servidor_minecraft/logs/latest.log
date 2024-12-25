@@ -413,3 +413,9 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [25Dec2024 01:28:45.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarioCuevas316: Set own game mode to Spectator Mode]
 [25Dec2024 01:28:47.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarioCuevas316: Set own game mode to Creative Mode]
 [25Dec2024 01:29:15.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarioCuevas316: Set own game mode to Survival Mode]
+[25Dec2024 01:37:34.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[25Dec2024 01:37:34.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
+[25Dec2024 01:39:57.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[25Dec2024 01:39:57.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
+[25Dec2024 01:44:23.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[25Dec2024 01:44:23.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
