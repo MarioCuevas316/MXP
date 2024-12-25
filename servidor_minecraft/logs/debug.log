@@ -4643,3 +4643,11 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [25Dec2024 00:08:29.057] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [25Dec2024 00:10:43.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Dec2024 00:10:43.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 00:15:43.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 00:15:43.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 00:19:46.122] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@43de5398 for service interface com.blamejared.clumps.platform.IEventHelper
+[25Dec2024 00:19:46.123] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@3c6f0345 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[25Dec2024 00:20:43.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 00:20:43.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 00:21:32.928] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:ice/ice_tower_bottom
+[25Dec2024 00:21:32.934] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/waystone_tower_top
