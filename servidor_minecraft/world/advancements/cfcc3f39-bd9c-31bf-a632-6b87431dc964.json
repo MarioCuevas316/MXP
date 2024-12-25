@@ -5663,9 +5663,51 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_bamboo_table_basic": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:32:31 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-25 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_bamboo_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:32:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:31:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_log_stool": {
+    "criteria": {
+      "has_log": "2024-12-25 01:31:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_bamboo_classic_stool": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:32:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2024-12-25 01:31:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_bamboo_table_classic": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:32:31 +0000"
     },
     "done": true
   },
@@ -5693,9 +5735,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/bamboo_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:31:50 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-25 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_bamboo_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:32:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_bamboo_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:32:31 +0000"
     },
     "done": true
   },
@@ -5708,6 +5768,18 @@
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2024-12-25 00:32:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_bamboo_modern_stool": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:32:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_bamboo_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:32:31 +0000"
     },
     "done": true
   },
@@ -5729,6 +5801,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_bamboo_raw_table_log": {
+    "criteria": {
+      "has_log": "2024-12-25 01:32:31 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-25 01:08:23 +0000"
@@ -5741,9 +5819,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/bamboo_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:31:50 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-25 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_bamboo_chair_modern": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:32:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_bamboo_chair_classic": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:32:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-25 01:32:31 +0000"
     },
     "done": true
   },
@@ -5759,9 +5861,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/bamboo_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:31:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_bamboo_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:32:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2024-12-25 00:55:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:31:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_raw_table_log": {
+    "criteria": {
+      "has_log": "2024-12-25 01:31:50 +0000"
     },
     "done": true
   },
@@ -5777,6 +5903,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_bamboo_chair": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:32:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:31:50 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-25 01:08:23 +0000"
@@ -5786,6 +5924,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-25 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:31:50 +0000"
     },
     "done": true
   },
@@ -5813,9 +5957,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_bamboo_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:32:31 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-25 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_bamboo_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:32:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_bamboo_table_log": {
+    "criteria": {
+      "has_log": "2024-12-25 01:32:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_bamboo_table_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:32:31 +0000"
     },
     "done": true
   },
@@ -5831,6 +5999,30 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_bamboo_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:32:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_bamboo_simple_stool": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:32:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:31:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_bamboo_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:32:31 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-25 01:08:23 +0000"
@@ -5840,6 +6032,18 @@
   "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-25 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_bamboo_chair_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:32:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_bamboo_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2024-12-25 01:32:31 +0000"
     },
     "done": true
   },

@@ -4694,3 +4694,12 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [25Dec2024 01:23:44.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
 [25Dec2024 01:25:43.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Dec2024 01:25:43.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 01:28:37.121] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[25Dec2024 01:28:37.121] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[25Dec2024 01:28:45.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarioCuevas316: Set own game mode to Spectator Mode]
+[25Dec2024 01:28:47.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarioCuevas316: Set own game mode to Creative Mode]
+[25Dec2024 01:29:15.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarioCuevas316: Set own game mode to Survival Mode]
+[25Dec2024 01:30:43.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 01:30:43.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 01:35:43.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 01:35:43.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
