@@ -395,3 +395,5 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [25Dec2024 00:06:24.936] [Server thread/INFO] [Jade/]: Syncing config to MarioCuevas316 (cfcc3f39-bd9c-31bf-a632-6b87431dc964)
 [25Dec2024 00:27:32.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [25Dec2024 00:27:32.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
+[25Dec2024 00:48:12.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[25Dec2024 00:48:12.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
